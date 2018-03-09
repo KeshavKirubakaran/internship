@@ -1,275 +1,509 @@
 {
-  "Chapters": {
+  "Chapter": {
     "chapter": [
       {
-        "Name": "Chapter1",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter1",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter2",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "a",
-          "hint": "hint for the question"
-        }
+        "name": "chapter2",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter3",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter3",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter4",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "d",
-          "hint": "hint for the question"
-        }
+        "name": "chapter4",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter5",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter5",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter6",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "a",
-          "hint": "hint for the question"
-        }
+        "name": "chapter6",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter7",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter7",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter8",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter8",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter9",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "c",
-          "hint": "hint for the question"
-        }
+        "name": "chapter9",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter10",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "d",
-          "hint": "hint for the question"
-        }
+        "name": "chapter10",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter11",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter11",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter12",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "a",
-          "hint": "hint for the question"
-        }
+        "name": "chapter12",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter13",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "a",
-          "hint": "hint for the question"
-        }
+        "name": "chapter13",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter14",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter14",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter15",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "d",
-          "hint": "hint for the question"
-        }
+        "name": "chapter15",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter16",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "b",
-          "hint": "hint for the question"
-        }
+        "name": "chapter16",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter17",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "c",
-          "hint": "hint for the question"
-        }
+        "name": "chapter17",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       },
       {
-        "Name": "Chapter18",
-        "Content": "Some sample content to be shown",
-        "Question": {
-          "question_1": "test question",
-          "options": [
-            "a",
-            "b",
-            "c",
-            "d"
-          ],
-          "correct_answer": "a",
-          "hint": "hint for the question"
-        }
+        "name": "chapter18",
+        "content": "sample content to be added",
+        "question": [
+          {
+            "question": "test question1",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "b",
+            "hint": "hint for the question1"
+          },
+          {
+            "question": "test question2",
+            "options": [
+              "a",
+              "b",
+              "c",
+              "d"
+            ],
+            "correct_option": "d",
+            "hint": "hint for the question2"
+          }
+        ]
       }
     ]
   }
